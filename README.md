@@ -93,3 +93,21 @@ cursor attach web
 
 This command lets you interact directly with the container via your terminal.
 
+---
+
+## Contributing
+Contributions are welcome!
+If you wish to add a new configuration or improve an existing one, please:
+
+Open an issue to discuss your changes.
+
+Submit a pull request with your updates.
+
+---
+
+## License
+This project is licensed under the MIT License.
+
+--- 
+
+Oneclick is designed to simplify the setup of development environments, so you can focus on what matters most: coding.
